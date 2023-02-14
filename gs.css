@@ -11,6 +11,6 @@
     font-family:'Times New Roman', Times, serif;
     background-color: pink;
 }
-direction.hover{
+.direction:hover{
     background-color: antiquewhite;
 }
