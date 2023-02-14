@@ -14,11 +14,11 @@
 .direction:hover{
     background-color: antiquewhite;
 }
-.MRS X{
+.MRS {
     color: blue;
 }
-.MISS Y{
-    color: purple;
+.MISS {
+    color: red;
 }
 table, th, td {
      border: 1px solid;
