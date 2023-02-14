@@ -14,10 +14,10 @@
 .direction:hover{
     background-color: antiquewhite;
 }
-.name{
+.MRS X{
     color: blue;
 }
-.exp{
+.MISS Y{
     color: purple;
 }
 table, th, td {
@@ -37,9 +37,7 @@ table, th, td {
         margin-bottom: 100px;
         margin-right: 150px;
         margin-left: 80px;
-      
-    
-  }
+    }
   tr:nth-child(even) {
     background-color: yellow;
   }
