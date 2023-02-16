@@ -47,6 +47,9 @@ table, th, td {
 .MISS:hover{
   text-shadow: 3px 3px #eb1f41;
 }
+
+
+
 ul.navbar-horizontal {
     /* remove these */
     list-style-type: none;
@@ -69,4 +72,13 @@ ul.navbar-horizontal li {
     background-color: #555;
     color:white;
   }
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 40,
+  'GRAD' 0,
+  'opsz' 4
+}
+
   
